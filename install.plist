@@ -12,7 +12,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://appdown.zfpai.com/qianhui/IOS/qianhui.ipa</string>
+                        <string>http://appdown.zfpai.com/xinghong/IOS/qianhui.ipa</string>
                     </dict>
                     
                     <dict>
@@ -21,7 +21,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://appdown.zfpai.com/qianhui/IOS/60.png</string>
+                        <string>http://appdown.zfpai.com/xinghong/IOS/60.png</string>
                     </dict>
                     
                     <dict>
@@ -30,7 +30,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://appdown.zfpai.com/qianhui/IOS/60.png</string>
+                        <string>http://appdown.zfpai.com/xinghong/IOS/60.png</string>
                     </dict>
                 </array>
                 
@@ -38,13 +38,13 @@
                 
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.dean.qianhui.cs</string>
+                    <string>com.xinghong.cs</string>
                     <key>bundle-version</key>
-                    <string>1.0.1</string>
+                    <string>1.0.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>钱汇</string>
+                    <string>星鸿</string>
                 </dict>
                 
             </dict>
